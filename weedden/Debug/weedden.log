@@ -1,9 +1,9 @@
-﻿Сборка начата 19.10.2015 19:10:17.
+﻿Сборка начата 20.10.2015 0:00:26.
      1>Проект "C:\Users\mike\Desktop\ayy lmao\Yo\weedden\weedden.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
          D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Program Files\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>c:\users\mike\desktop\ayy lmao\yo\weedden\main.cpp(60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\mike\desktop\ayy lmao\yo\weedden\main.cpp(61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
        Link:
          D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mike\Desktop\ayy lmao\Yo\Debug\weedden.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\SFML-2.3.2\lib" "sfml-graphics-s-d.lib" "sfml-window-s-d.lib" "sfml-system-s-d.lib" "sfml-audio-s-d.lib" opengl32.lib freetype.lib jpeg.lib Winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\mike\Desktop\ayy lmao\Yo\Debug\weedden.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mike\Desktop\ayy lmao\Yo\Debug\weedden.lib" /MACHINE:X86 Debug\main.obj
      1>sfml-graphics-s-d.lib(BlendMode.cpp.obj) : warning LNK4099: "vc140.pdb" PDB эх эрщфхэ ё "sfml-graphics-s-d.lib(BlendMode.cpp.obj)" шыш эр "C:\Users\mike\Desktop\ayy lmao\Yo\Debug\vc140.pdb"; ъюьяюэютър юс·хъЄр т√яюыэ хЄё  ъръ яЁш юЄёєЄёЄтшш юЄырфюўэ√ї фрээ√ї
@@ -58,4 +58,4 @@
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:02.01
+Затраченное время: 00:00:01.49
